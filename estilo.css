@@ -1,0 +1,48 @@
+*{
+	padding: 0;
+	margin: 0;
+
+	}
+	h1{
+	   text-align: center;
+	   background: green; green;
+	   color: white;
+	   padding:40px;
+	
+	}
+	nav li{   
+		display: inline-flex;
+   
+	}
+	nav ul{   
+		background-color: white;
+		width:100% ;
+		list-style-type: none;
+		text-align: center;
+	}
+	nav a{   
+		text-decoration: none;
+		color: black;
+		padding: 10px;
+		width: 150px;
+	}
+	nav li:hover { 
+         background-color: yellow;
+  }
+	h3{
+	   text-align: center;
+	   color: black;
+	   padding:40px;
+
+h4{
+	   text-align: center;
+	   color: white;
+	   padding:40px;
+	
+	
+ }
+	h8{
+	   text-align: center;
+	   color: black;
+	   padding:40px;
+
